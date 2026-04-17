@@ -2,10 +2,10 @@
 During my Bachelors of Science in Aerospace Engineering [**Sophomore Spring 2026**], I assigned myself the daily task to get some degreee of exposure on tools that I considered paramount in my Engineering workbench... to learn how to pick up my pen and write my own path. In the look for an entry point in contributing to Space Exploration, I found a strong interest in Thermofluid of Aerodynamic Systems... So I decided to make this conditioning loop to examine a strong correlation between both my theoretical knowledge and practical approach to establish a Engineering Workflow to solve problems.
 
 **Tools.**
-CFD
-FEA
-CAD
-Matlab
+CFD - 
+FEA - 
+CAD - 
+Matlab - 
 Python
 
 **Theory.**
