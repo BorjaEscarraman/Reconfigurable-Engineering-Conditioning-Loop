@@ -9,10 +9,10 @@ Matlab
 Python
 
 **Theory.**
-Thermodynamics
-Fluid Mechanics
-Heat Transfer
-Propulsion
+Thermodynamics -
+Fluid Mechanics - 
+Heat Transfer -
+Propulsion -
 
 Emphasizing strongly my approach on...
 1. physics-based modeling
