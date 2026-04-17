@@ -1,5 +1,5 @@
 # Reconfigurable-Engineering-Conditioning-Loop
-During my Bachelors of Science in Aerospace Engineering [**Sophomore Spring 2026**], I assigned myself the daily task to get some degreee of exposure on tools that I considered paramount in my Engineering workbench... to learn how to pick up my pen and write my own path. In the look for an entry point in contributing to Space Exploration, I found a strong interest in **Thermofluid Aerodynamic Systems**... So I decided to make this 'conditioning loop' to examine thhe correlation between my theoretical & practical knowledge and put it to a test in a workflow environment to isolate and solve a problem.
+During my Bachelors of Science in Aerospace Engineering [**Sophomore Spring 2026**], I assigned myself the daily task to get some degreee of exposure on tools that I considered paramount in my Engineering workbench... to learn how to pick up my pen and write my own path. In the look for an entry point in contributing to Space Exploration, I found a strong interest in **Thermofluid Aerodynamic Systems**... So I decided to make this 'conditioning loop,' to examine how well I align and improve my theoretical & practical knowledge simultaneously, putting it to a test in a workflow environment by isolating worth-solving problems.
 
 **Tools.**
 CFD - 
