@@ -6,7 +6,10 @@ CFD -
 FEA - 
 CAD - 
 Matlab - 
-Python
+Python - 
+Simulink - 
+Overleaf - 
+OBS - 
 
 **Theory.**
 Thermodynamics -
