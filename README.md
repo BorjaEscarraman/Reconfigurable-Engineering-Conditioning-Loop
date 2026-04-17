@@ -12,7 +12,8 @@ Python
 Thermodynamics -
 Fluid Mechanics - 
 Heat Transfer -
-Propulsion -
+Propulsion 
+
 
 Emphasizing strongly my approach on...
 1. physics-based modeling
