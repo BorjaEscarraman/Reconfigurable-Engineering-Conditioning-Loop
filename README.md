@@ -1,2 +1,2 @@
 # Reconfigurable-Engineering-Conditioning-Loop
-My attempt to build a small configurable flow system and a matching Python / MATLAB model that predicts pressure drop, temperature behavior, and system response, then compare the model to simulation and eventually measured data.  That is the real backbon
+During my Bachelors of Science in Aerospace Engineering Sophomore Spring 2026, I got myself into the daily mission to get exposure on thee tools that will be constantly part of my engineering workbench... to learn how to pick up my pen and write my own path.
