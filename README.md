@@ -24,7 +24,7 @@ Emphasizing strongly my approach on...
 3. geometry with intent
 4. simulation with purpose
 5. interpretation of results
-6. . technical write-up
+6.  technical write-up
 
 
 
